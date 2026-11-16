@@ -137,7 +137,7 @@ export const experience: Job[] = [
 ]
 
 export const education = [
-  { credential: 'Bachelor of Sciences in Applied Technology', type: 'Degree' },
+  { credential: 'Bachelor of Science in Applied Technology', type: 'Degree' },
   { credential: 'Associate in Applied Technology', type: 'Degree' },
   { credential: 'Certificate Web Development', type: 'Certificate' },
   { credential: 'Certificate Web Frontend', type: 'Certificate' },

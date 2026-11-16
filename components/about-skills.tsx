@@ -14,8 +14,8 @@ export function About() {
               <GraduationCap className="size-5" aria-hidden="true" />
             </span>
             <p className="leading-relaxed">
-              <span className="font-semibold">Currently pursuing</span> a Bachelor of Applied
-              Technology (Software Development) at Brigham Young University–Idaho.
+              <span className="font-semibold">Graduate</span> with a Bachelor of Science in Applied
+              Technology from Brigham Young University.
             </p>
           </div>
         </div>
