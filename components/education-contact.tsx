@@ -79,7 +79,7 @@ export function Contact() {
         </ul>
       </div>
       <footer className="border-t border-white/10">
-        <p className="mx-auto max-w-6xl px-5 py-6 text-sm text-white/55">
+        <p className="mx-auto max-w-6xl px-5 py-6 text-center text-sm text-white/55">
           {`© ${new Date().getFullYear()} ${profile.name}. ${profile.title}.`}
         </p>
       </footer>
