@@ -8,7 +8,7 @@ export const profile = {
   linkedinHref: 'https://www.linkedin.com/in/benard-oneka-9024001a1',
   resumePath: '/benard-oneka-resume.pdf',
   summary:
-    'Software Developer and ICT Professional with over 10 years of experience delivering technology solutions across healthcare, education, and business environments. Proven expertise in software development, ICT support, systems implementation, technical training, sales administration, and stakeholder engagement. Demonstrated success increasing donor funding by 40% through improved ICT capacity building and contributing to 80% sales revenue growth through effective sales administration. Currently pursuing a Bachelor of Applied Technology (Software Development) at BYU–Idaho.',
+    'Software Developer and ICT Professional with over 10 years of experience delivering technology solutions across healthcare, education, and business environments. Proven expertise in software development, ICT support, systems implementation, technical training, sales administration, and stakeholder engagement. Demonstrated success increasing donor funding by 40% through improved ICT capacity building and contributing to 80% sales revenue growth through effective sales administration.
 }
 
 export const highlights = [
@@ -40,6 +40,8 @@ export const competencies = [
   'Training & Mentorship',
   'Communication',
   'Problem Solving',
+  'Networking',
+  'Group Policy',
 ]
 
 export type Job = {
