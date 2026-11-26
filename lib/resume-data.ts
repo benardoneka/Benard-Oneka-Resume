@@ -143,7 +143,7 @@ export const education = [
   { credential: 'Associate in Applied Technology', type: 'Degree' },
   { credential: 'Certificate Web Development', type: 'Certificate' },
   { credential: 'Certificate Web Frontend', type: 'Certificate' },
-  { credential: 'Certificate Computer Programming Technology', type: 'Certificate' },
+  { credential: 'Certificate Computer Programming', type: 'Certificate' },
   { credential: 'Certificate BYU-Pathway', type: 'Certificate' },
 ]
 
